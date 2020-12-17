@@ -1,6 +1,5 @@
 ---
-layout: default
 title: About Me
-rank: 3
+rank: 6
 ---
-## About me
+# About me
