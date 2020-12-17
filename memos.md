@@ -8,15 +8,15 @@ My software development is tracked on [github](https://github.com/adampbeardsley
 HERA Software:
 Much of my recent activity has been within the [HERA-Team](https://github.com/HERA-Team)
 project, which is the home of all the code for the HERA telescope. Specifically,
-I manage the data quality metrics repository, [`hera_qm`](https://github.com/HERA-Team/hera_qm),
-and am a core contributor to [`pyuvdata`](https://github.com/HERA-Team/pyuvdata),
+I manage the data quality metrics repository, [hera_qm](https://github.com/HERA-Team/hera_qm),
+and am a core contributor to [pyuvdata](https://github.com/HERA-Team/pyuvdata),
 a python model for interferometric data.
 
 Other Software:
 The [EPIC-Astronomy](https://github.com/epic-astronomy) github team contains all
 the EPIC codes and memos.
 
-I have made major contributions to the Fast Holographic Deconvolution [(FHD)](https://github.com/EoRImaging/FHD) and [(eppsilon)](https://github.com/EoRImaging/eppsilon) code bases, which are essential tools for the imaging power spectrum pipeline I used in my PhD thesis.
+I have made major contributions to the Fast Holographic Deconvolution [(FHD)](https://github.com/EoRImaging/FHD) and [eppsilon](https://github.com/EoRImaging/eppsilon) code bases, which are essential tools for the imaging power spectrum pipeline I used in my PhD thesis.
 
 I have been populating a [tutorial repository](https://github.com/adampbeardsley/tutorials) with jupyter notebooks and python scripts that I use to demonstrate concepts when teaching. Check out the `Photo_FT_animation.py` script!
 
