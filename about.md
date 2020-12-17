@@ -25,5 +25,5 @@ Besides astronomy and physics, my interests include breakfast, playing with my d
 
 ## Calendar
 
-My outlook calendar, [linked here](https://outlook.office365.com/owa/calendar/c1589ab025634d988fb2764fd3050f3d@winona.edu/6fcb1ffe2d2d41e7874d7141389592ac8571122620388646148/calendar.html), is up to date. It's usually easier to view in *week* view.
+My outlook calendar, [linked here](https://outlook.office365.com/owa/calendar/c1589ab025634d988fb2764fd3050f3d@winona.edu/6fcb1ffe2d2d41e7874d7141389592ac8571122620388646148/calendar.html), is up to date. It's usually easier to view in *week* view.  
 If you're a student - those office hours are for you! Come by my zoom room, or give me a call on Teams.
