@@ -1,3 +1,7 @@
+---
+layout: foo
+---
+
 ## Website on its way
 
 For now, you can refer back to my old site: [http://loco.lab.asu.edu/adam_beardsley](http://loco.lab.asu.edu/adam_beardsley).
