@@ -10,7 +10,7 @@ After graduating from Madison, I headed to Seattle to pursue a PhD in physics fr
 
 In summer of 2015 I joined the Low-frequency Cosmology (LoCo) group at Arizona State University’s School of Earth and Space Exploration (SESE). It was an interesting and exciting department to be a part of — it’s a mix of astronomers, geophysicists, and engineers.
 
-In Fall 2020, amid the Covid pandemic, I started as an assistant professor as Winona State.
+In Fall 2020, amid the Covid pandemic, I started as an assistant professor at Winona State.
 It's certainly been a hectic start to the new job, but the department has been very welcoming
 supportive as I get my feet under myself. I'm hoping to be back on campus soon to
 see the students more often.
