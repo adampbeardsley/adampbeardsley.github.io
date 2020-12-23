@@ -17,9 +17,10 @@ HERA is an experiment in South Africa to observe the Epoch of Reionization -- th
 
 <details><summary>Learn more</summary>
 
-
+some example text about hera
 
 </details>
+<br>
 
 ## Murchison Widefield Array
 ![mwa](media/MWA.jpeg)
@@ -33,11 +34,13 @@ You can see me above checking out some antennas during a commissioning trip duri
 
 
 </details>
+<br>
 
 ## EPIC
 <details><summary>Learn more</summary>
 
 </details>
+<br>
 
 ## CHART
 ![chart](media/CHART.jpeg)
@@ -46,6 +49,7 @@ You can see me above checking out some antennas during a commissioning trip duri
 
 
 </details>
+<br>
 
 ## LWA-Swarm
 ![lwa](media/LWA.jpeg)
