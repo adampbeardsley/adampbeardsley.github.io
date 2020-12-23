@@ -13,8 +13,7 @@ If you're a student looking to get involved with research, let me know what inte
 ## Hydrogen Epoch of Reionization Array
 ![hera](media/HERA.jpeg)
 
-HERA is an experiment in South Africa to observe the Epoch of Reionization -- the period in the history of the Universe when stars and galaxies ionized the gas between them.
-
+HERA is an experiment in South Africa to observe the Epoch of Reionization -- the period in the history of the Universe when stars and galaxies ionized the gas between them.  
 <details><summary>Learn more</summary>
 
 some example text about hera
