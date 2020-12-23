@@ -11,6 +11,7 @@ My courses are listed below. If you need to meet with me, have a look at my
 ## Spring 2021
 
 - PHYS 201 Labs, General Physics I
+- PHYS 202 Labs, General Physics II
 - PHYS 302/328, Electrical Circuits
 - PHYS 340, Modern Physics
 
