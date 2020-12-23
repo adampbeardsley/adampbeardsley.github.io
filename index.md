@@ -1,41 +1,14 @@
-## Website on its way
+Hello! I'm an assistant professor of physics department at Winona State University.
+My research is centered around designing, building, and using radio telescopes to study the Universe around us.
+I work with international collaborations including the Hydrogen Epoch of Reionization Array ([reionization.org](HERA)) and the Murchison Widefield Array ([mwatelescope.org](MWA)) to detect faint radio emission from the neutral gas between galaxies when the Universe was only about a tenth its current age.
 
-For now, you can refer back to my old site: [http://loco.lab.asu.edu/adam_beardsley](http://loco.lab.asu.edu/adam_beardsley).
+This epoch is when stars and galaxies formed and began to ionize the gas around them.
+Future telescopes will be made up of tens of thousands of antennas, all working together to observe the radio sky.
+There are many technological challenges to overcome and realize these instruments.
+Working on this front involves high performance computing, novel analysis algorithms, and exploring analog electronic solutions to deliver extraordinarily smooth bandpass response.
 
-<!-- ## Welcome to GitHub Pages
+On a more local scale, I supervise the Completely Hackable Amateur Radio Telescope ([astrochart.github.io](CHART)) project.
+This is an undergraduate student led effort to create a classroom-budget platform for students and hobbyists to explore concepts from radio astronomy, electronics, and data analysis to web development and informal education.
 
-You can use the [editor on GitHub](https://github.com/adampbeardsley/adampbeardsley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adampbeardsley/adampbeardsley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
+My students can get involved in any aspect of my research -- or help me explore new directions if that's where their interests take us!
+I believe practical research experiences are a great way to learn the core skills needed for a STEM career, so I urge students to get involved early and learn what they need as they go.
