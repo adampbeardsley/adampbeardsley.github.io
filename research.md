@@ -22,9 +22,8 @@ rank: 2
 
 ## LWA-Swarm
 <details><summary>Expand</summary>
+
 <p>
-
 ![lwa](media/LWA.jpeg)
-
 </p>
 </details>
