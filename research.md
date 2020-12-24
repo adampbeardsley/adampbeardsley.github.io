@@ -41,13 +41,15 @@ You can see me above checking out some antennas during a commissioning trip duri
 
 ## EPIC
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/umewybd" data-context="false" ><a href="//imgur.com/a/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/umewybd" data-context="false" ><a href="//imgur.com/a/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 <details><summary>Learn more</summary>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/umewybd" data-context="false" ><a href="//imgur.com/a/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/umewybd" data-context="false" ><a href="//imgur.com/a/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
 </details>
 <br>
