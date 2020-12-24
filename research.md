@@ -15,12 +15,12 @@ If you're a student looking to get involved with research, let me know what inte
 
 HERA is an experiment in South Africa to observe the Epoch of Reionization -- the period in the history of the Universe when stars and galaxies ionized the gas between them.  
 
-<blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Dish building - <a href="https://theta360.com/s/rKdliQGeN0VWWjbhGDvS9fOrI" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
-<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>
-
 <details><summary>Learn more</summary>
 
 some example text about hera
+
+<blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Dish building - <a href="https://theta360.com/s/rKdliQGeN0VWWjbhGDvS9fOrI" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
+<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>
 
 </details>
 <br>
