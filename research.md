@@ -41,11 +41,12 @@ You can see me above checking out some antennas during a commissioning trip duri
 
 ## EPIC
 
-<blockquote data-width="500" data-height="375" class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!--
+Meteor animation... if I can ever get it to render properly
+<blockquote data-width="500" data-height="375" class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
 <details><summary>Learn more</summary>
 
-<blockquote data-width="500" data-height="375" class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 </details>
 <br>
