@@ -10,15 +10,17 @@ Be sure to click the "Learn more" tabs to expand more explanation.
 
 If you're a student looking to get involved with research, let me know what interests you!
 
-[LWA Swarm](#LWA-Swarm)  
-[LWA Swarm](##LWA-Swarm)
+Quick links:  
+[HERA](#hydrogen-epoch-of-reionization-array)  
+[MWA](#murchison-widefield-array)  
+[EPIC](#epic)  
+[CHART](#chart)  
+[LWA Swarm](#lwa-swarm)
 
 ## Hydrogen Epoch of Reionization Array
 ![hera](media/HERA.jpeg)
 
 [HERA](http://www.reionization.org) is an experiment in South Africa to observe the Epoch of Reionization -- the period in the history of the Universe when stars and galaxies ionized the gas between them.  
-
-<details><summary>Learn more</summary>
 
 HERA is a purpose-driven experiment -- it is built specifically to detect radio emissions from neutral hydrogen during the Epoch of Reionization, and its design reflects the narrow mission.
 It will comprise 350 dishes, mostly packed as tightly as possible to achieve high sensitivity and detect a very faint signal.
@@ -32,7 +34,6 @@ Telephone poles support the sensors that are suspended above the dishes to colle
 I am a part of the analysis team, specifically leading the effort to ensure the data are high quality and free of contaminants that could spoil the measurement.
 It turns out humans like to communicate using the same type of radio waves as HERA is trying to detect, so it's essential that we remove any of those signals that find their way into our data.
 
-</details>
 <br>
 
 ## Murchison Widefield Array
@@ -43,18 +44,15 @@ While the Epoch of Reionization is a major science driver for the MWA, scientist
 I've been involved in the project since its early stages.
 You can see me above checking out some antennas during a commissioning trip during my graduate studies.
 
-<details><summary>Learn more</summary>
-
 Similar to my role in HERA, I'm a part of the MWA's Epoch of Reionization team.
 My PhD thesis was based on the first major effort to reduce a full season's worth of data and place upper limits on the cosmic signal.
 I also helped design the telescope by optimizing the placement of the antennas to yield high sensitivity and maintain robust imaging capability.
 You can see what the radio sky looks like to the MWA in the image below, from the GLEAM team.
 In the image you can see the prominent galactic plane, many super nova remnants, and all the little dots are other galaxies!
 
-<img src="https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg" alt="GLEAM">
-<!-- ![gleam](https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg) -->
-
-<em> Image credit: Natasha Hurley-Walker/ICRAR/Curtin/GLEAM Team</em><br>
+<!-- <img src="https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg" alt="GLEAM"> -->
+![gleam](https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg)
+*Image credit: Natasha Hurley-Walker/ICRAR/Curtin/GLEAM Team*
 
 In 2016 the MWA got an upgrade to "Phase II."
 We added more antennas, this time tightly packed in the core to mimic the layout of HERA, which will allow interesting comparisons.
@@ -62,7 +60,6 @@ We added more antennas, this time tightly packed in the core to mimic the layout
 I served as the Project Scientist for the MWA from 2018 to 2020.
 This was an exciting experience as I worked with all the science groups -- not just the Epoch of Reionization team.
 
-</details>
 <br>
 
 ## EPIC
@@ -74,8 +71,6 @@ These instruments rely on powerful, usually custom built, computers to process t
 As the number of antennas grows, the computers need to keep pace, and that's where EPIC comes in.
 
 <blockquote data-width="500" data-height="375" class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<details><summary>Learn more</summary>
 
 In order to make images of the sky, radio telescopes (specifically interferometers), need to cross-correlate the signals from all <em>pairs</em> of antennas.
 So if we need ten times as many antennas, that means we need to make 100 times as many cross correlations!
@@ -91,7 +86,6 @@ Each frame in the movie is 1/20th of a second.
 
 This technology will not only allow for bigger and better telescopes, but it may also open the door for fast radio transient studies.
 
-</details>
 <br>
 
 ## CHART
@@ -99,8 +93,6 @@ This technology will not only allow for bigger and better telescopes, but it may
 
 The [Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/) is an undergraduate student led project to create a classroom-budget radio telescope.
 The goal is to make a platform that is affordable and accessible to bring radio astronomy to a wide audience of students and enthusiasts.
-
-<details><summary>Learn more</summary>
 
 Radio astronomy makes use of many technical skill sets: electronics design, signal processing, computer programming, statistics, data analysis, not to mention astronomy itself!
 With CHART, we provide in-depth, easy-to-understand tutorials to get started with a baseline telescope (pictured above).
@@ -111,7 +103,6 @@ By "hackable" we mean that the design is there for you, but it's meant to be bro
 
 If you are a high school student or teacher and are interested in this project, feel free to contact me or peruse the website linked above.
 
-</details>
 <br>
 
 ## LWA-Swarm
