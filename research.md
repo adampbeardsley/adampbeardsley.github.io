@@ -6,8 +6,6 @@ rank: 2
 
 Here is an ever-changing summary of my research interests.
 I've organized this page by different radio telescopes I work with.
-Be sure to click the "Learn more" tabs to expand more explanation.
-
 If you're a student looking to get involved with research, let me know what interests you!
 
 Quick links:  
