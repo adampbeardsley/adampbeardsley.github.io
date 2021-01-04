@@ -51,7 +51,7 @@ In the image you can see the prominent galactic plane, many super nova remnants,
 <img src="https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg" alt="GLEAM">
 <!-- ![gleam](https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg) -->
 
-*Image credit: Natasha Hurley-Walker/ICRAR/Curtin/GLEAM Team*
+<em> Image credit: Natasha Hurley-Walker/ICRAR/Curtin/GLEAM Team</em>
 
 In 2016 the MWA got an upgrade to "Phase II."
 We added more antennas, this time tightly packed in the core to mimic the layout of HERA, which will allow interesting comparisons.
