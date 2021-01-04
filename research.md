@@ -113,7 +113,7 @@ If you are a high school student or teacher and are interested in this project, 
 </details>
 <br>
 
-(##LWA-Swarm)
+##LWA-Swarm
 ![lwa](media/LWA.jpeg)
 
 The Long Wavelength Array actually consists of three different telescopes - so far.
