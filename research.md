@@ -10,7 +10,8 @@ Be sure to click the "Learn more" tabs to expand more explanation.
 
 If you're a student looking to get involved with research, let me know what interests you!
 
-[LWA Swarm](#LWA-Swarm)
+[LWA Swarm](#LWA-Swarm)  
+[LWA Swarm](##LWA-Swarm)
 
 ## Hydrogen Epoch of Reionization Array
 ![hera](media/HERA.jpeg)
@@ -113,7 +114,7 @@ If you are a high school student or teacher and are interested in this project, 
 </details>
 <br>
 
-##LWA-Swarm
+## LWA-Swarm
 ![lwa](media/LWA.jpeg)
 
 The Long Wavelength Array actually consists of three different telescopes - so far.
