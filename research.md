@@ -64,13 +64,29 @@ This was an exciting experience as I worked with all the science groups -- not j
 
 ## EPIC
 
-
-Meteor animation... if I can ever get it to render properly
+Ok, EPIC isn't exactly a telescope.
+Rather, EPIC is a project to develop technologies that will make radio telescopes of the future possible.
+Today radio arrays consist of hundreds of antennas, but in a decade or two, they will have tens of thousands of antennas.
+These instruments rely on powerful, usually custom built, computers to process the data from the antennas.
+As the number of antennas grows, the computers need to keep pace, and that's where EPIC comes in.
 
 <blockquote data-width="500" data-height="375" class="imgur-embed-pub" lang="en" data-id="a/umewybd"><a href="//imgur.com/umewybd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <details><summary>Learn more</summary>
 
+In order to make images of the sky, radio telescopes (specifically interferometers), need to cross-correlate the signals from all <em>pairs</em> of antennas.
+So if we need ten times as many antennas, that means we need to make 100 times as many cross correlations!
+It will be very challenging for computers to keep up.
+
+EPIC takes a different approach.
+We can use a simple math trick to create images of the raw data prior to cross-correlation.
+Under certain circumstances, this can drastically save on computational requirements.
+It also has the bonus of forming images at really high time resolution.
+The animation above was captured using the Long Wavelenght Array in New Mexico.
+It shows a TV signal being reflected off the trail of a meteor entering the atmosphere.
+Each frame in the movie is 1/20th of a second.
+
+This technology will not only allow for bigger and better telescopes, but it may also open the door for fast radio transient studies.
 
 </details>
 <br>
