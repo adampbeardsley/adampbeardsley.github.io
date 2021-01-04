@@ -93,9 +93,20 @@ This technology will not only allow for bigger and better telescopes, but it may
 
 ## CHART
 ![chart](media/CHART.jpeg)
+
+The [Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/) is an undergraduate student led project to create a classroom-budget radio telescope.
+The goal is to make a platform that is affordable and accessible to bring radio astronomy to a wide audience of students and enthusiasts.
+
 <details><summary>Learn more</summary>
 
+Radio astronomy makes use of many technical skill sets: electronics design, signal processing, computer programming, statistics, data analysis, not to mention astronomy itself!
+With CHART, we provide in-depth, easy-to-understand tutorials to get started with a baseline telescope (pictured above).
+From there, students can dig into different aspects.
+Maybe a student is interested in electronics and wants to design a better filter.
+Or maybe they want to learn more about the data analysis and improve it.
+By "hackable" we mean that the design is there for you, but it's meant to be broken and changed.
 
+If you are a high school student or teacher and are interested in this project, feel free to contact me or peruse the website linked above.
 
 </details>
 <br>
@@ -103,8 +114,6 @@ This technology will not only allow for bigger and better telescopes, but it may
 ## LWA-Swarm
 ![lwa](media/LWA.jpeg)
 
-<details><summary>Learn more</summary>
-
-
-
-</details>
+The Long Wavelength Array actually consists of three different telescopes - so far.
+The plan is to install "stations" all over the continent to provide individual universities with their own instrument to explore and observe with, and for the stations to all work together.
+I'm planning to build an LWA near Winona State.
