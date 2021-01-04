@@ -48,7 +48,9 @@ I also helped design the telescope by optimizing the placement of the antennas t
 You can see what the radio sky looks like to the MWA in the image below, from the GLEAM team.
 In the image you can see the prominent galactic plane, many super nova remnants, and all the little dots are other galaxies!
 
-![gleam](https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg)
+<img src="https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg" alt="GLEAM">
+<!-- ![gleam](https://www.sciencealert.com/images/2019-11/processed/RadioEyeViewOfGalacticCentre_1024.jpg) -->
+
 *Image credit: Natasha Hurley-Walker/ICRAR/Curtin/GLEAM Team*
 
 In 2016 the MWA got an upgrade to "Phase II."
