@@ -19,7 +19,7 @@ Besides astronomy and physics, my interests include breakfast, playing with my d
 
 ## CV
 
-[Here is a link to my CV](https://www.dropbox.com/s/ycvsdn1vnyc0ya3/BeardsleyAdamCV.pdf?dl=0).
+[Here is a link to my CV](https://www.dropbox.com/s/14icbw4rt5jpo04/CV.pdf?dl=0).
 
 [And here is a link to my automatically generated Google Scholar profile](https://scholar.google.com/citations?user=szMsziEAAAAJ&hl=en).
 
