@@ -24,6 +24,8 @@ Isaac recently finished his senior research project, which was to demonstrate [E
 ## Machine Learning to Identify RFI
 *Sheikh Fahad, 2021*
 
+Fahad is a Computer Science major with an interest in artificial intelligence. He wanted to incorporate that interest into a radio astronomy project by exploring machine learning to identify radio frequency interference (RFI). This has been attempted with other telescopes in the past, but [EPIC](research#epic) has its own challenges because its data product is unlike other radio telescopes. Fahad studied different image classification learning algorithms, and built a training set with existing EPIC data. Along the way, he also implemented continuous integration for the project so we can develop unit tests to ensure project stability.
+
 ## Radio Observatory Scouting
 *Serdar Chifji, 2021*
 ![Scouting data](media/scouting_data.png)
