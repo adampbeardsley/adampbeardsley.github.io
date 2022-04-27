@@ -19,6 +19,8 @@ For his engineering design project, Nahom looked to replace the very expensive b
 ## Solar Radio Bursts with EPIC
 *Isaac Conrad, 2021-2022*
 
+Isaac recently finished his senior research project, which was to demonstrate [EPIC](research#epic)'s ability to observe solar radio bursts. EPIC is a brand new system, and Isaac's work has helped to uncover some bugs in the data collection. He ended up studying one solar burst, which he was able to classify as Type III and measure its drift rate. We hope this analysis will lead to studying many more bursts in the future.
+
 ## Machine Learning to Identify RFI
 *Sheikh Fahad, 2021*
 
