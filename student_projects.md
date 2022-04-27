@@ -12,7 +12,7 @@ Emma participated in WSU's Early Year Research & Creative Mentoring ([EYRCM](htt
 
 ## CHART Filter
 *Nahom Nemera, 2021-2022*
-![Microstrip](media/microstrip.jpg)
+![Microstrip](media/chart_filter.jpg)
 
 For his engineering design project, Nahom looked to replace the very expensive bandpass filter CHART has been using so far. His goal was to find a more affordable option that performs well enough to detect the 21cm hydrogen line. He explored cheaper off-the-shelf options, home made microstrip filters, and his own printed circuit board versions. While simulations of his latest PCB design showed the best performance, we are still experiencing issues with the implemented filter. Until those issues are worked out, the current best option is a [Nooelec SAWbird filter](https://www.nooelec.com/store/sawbird-h1-barebones.html_).
 
@@ -41,4 +41,4 @@ CHART has been able to collect data that looks like the 21cm hydrogen line, but 
 ## Cosmology Parameter Searches with 21cmFAST
 *Megh Khanal, 2020-2021*
 
-Megh was interested in a theoretical cosmology project. So he learned to use the 21cmFAST semi-numerical software to simulate the Epoch of Reionization for a given set of cosmological and astrophysical parameters. We then undertook a "parameter search" exercise where I created a "true" universe, and Megh created a suite of simulations, varying parameters, until he found a set of parameters that statistically matched the universe I created for him. This is the type of strategy cosmologists use to match data to numerical models and constrain our understanding of how the universe evolved. 
+Megh was interested in a theoretical cosmology project. So he learned to use the 21cmFAST semi-numerical software to simulate the Epoch of Reionization for a given set of cosmological and astrophysical parameters. We then undertook a "parameter search" exercise where I created a "true" universe, and Megh created a suite of simulations, varying parameters, until he found a set of parameters that statistically matched the universe I created for him. This is the type of strategy cosmologists use to match data to numerical models and constrain our understanding of how the universe evolved.
