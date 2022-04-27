@@ -36,7 +36,9 @@ Serdar spent the summer working with different radio telescopes, with the goal t
 *Dylan Gappa, 2020-2021*
 ![chart sim](media/simulated_chart_data.png)
 
-CHART has been able to collect data that looks like the 21cm hydrogen line, but an open question is how we know that the little bump we see is really the galaxy. One piece of evidence is to compare our data with professional surveys. Dylan set out to do this using the [HI4PI Survey](https://ui.adsabs.harvard.edu/abs/2016A%26A...594A.116H/abstract). He used this data and wrote a program to simulate CHART's response (a very large field of view) for any location, time, and pointing direction. We hope to use simulated data like you see above to compare with CHART observations. 
+CHART has been able to collect data that looks like the 21cm hydrogen line, but an open question is how we know that the little bump we see is really the galaxy. One piece of evidence is to compare our data with professional surveys. Dylan set out to do this using the [HI4PI Survey](https://ui.adsabs.harvard.edu/abs/2016A%26A...594A.116H/abstract). He used this data and wrote a program to simulate CHART's response (a very large field of view) for any location, time, and pointing direction. We hope to use simulated data like you see above to compare with CHART observations.
 
 ## Cosmology Parameter Searches with 21cmFAST
 *Megh Khanal, 2020-2021*
+
+Megh was interested in a theoretical cosmology project. So he learned to use the 21cmFAST semi-numerical software to simulate the Epoch of Reionization for a given set of cosmological and astrophysical parameters. We then undertook a "parameter search" exercise where I created a "true" universe, and Megh created a suite of simulations, varying parameters, until he found a set of parameters that statistically matched the universe I created for him. This is the type of strategy cosmologists use to match data to numerical models and constrain our understanding of how the universe evolved. 
