@@ -30,6 +30,8 @@ Fahad is a Computer Science major with an interest in artificial intelligence. H
 *Serdar Chifji, 2021*
 ![Scouting data](media/scouting_data.png)
 
+Serdar spent the summer working with different radio telescopes, with the goal to study the radio frequency environment around Winona. He assembled and tested an LWA antenna, and designed a portable system to drive around and record RF spectra. Above you can see low-frequency spectra from several locations around town. The Farmer's Community Park shows very little interference, demonstrating that the bluffs in the area can effectively shade us from radio towers. We hope that future expeditions will help us find the perfect location for a Winona Radio Observatory.
+
 ## Simulating CHART Data
 *Dylan Gappa, 2020-2021*
 ![chart sim](media/simulated_chart_data.png)
