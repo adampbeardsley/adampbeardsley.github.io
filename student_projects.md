@@ -12,6 +12,7 @@ Emma participated in WSU's Early Year Research & Creative Mentoring ([EYRCM](htt
 
 ## CHART Filter
 *Nahom Nemera, 2021-2022*
+![Microstrip](media/microstrip.jpg)
 
 For his engineering design project, Nahom looked to replace the very expensive bandpass filter CHART has been using so far. His goal was to find a more affordable option that performs well enough to detect the 21cm hydrogen line. He explored cheaper off-the-shelf options, home made microstrip filters, and his own printed circuit board versions. While simulations of his latest PCB design showed the best performance, we are still experiencing issues with the implemented filter. Until those issues are worked out, the current best option is a [Nooelec SAWbird filter](https://www.nooelec.com/store/sawbird-h1-barebones.html_).
 
@@ -23,9 +24,11 @@ For his engineering design project, Nahom looked to replace the very expensive b
 
 ## Radio Observatory Scouting
 *Serdar Chifji, 2021*
+![Scouting data](media/scouting_data.png)
 
 ## Simulating CHART Data
 *Dylan Gappa, 2020-2021*
+![chart sim](media/simulated_chart_data.png)
 
 ## Cosmology Parameter Searches with 21cmFAST
 *Megh Khanal, 2020-2021*
