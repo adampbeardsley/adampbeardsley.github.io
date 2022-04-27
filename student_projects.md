@@ -3,7 +3,7 @@ title: Student Projects
 rank: 2.1
 ---
 # Student Projects
-A space to highlight student projects...
+Here's a running list of student research and design projects I've mentored. If you're a student looking to get involved, this is a good place to see what others have been up to lately.
 
 ## CHART Data Analysis
 *Emma Dachel, 2022*
