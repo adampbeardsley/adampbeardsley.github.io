@@ -8,7 +8,7 @@ Here's a running list of student research and design projects I've mentored. If 
 ## CHART Data Analysis
 *Emma Dachel, 2022*
 
-Emma participated in WSU's Early Year Research \& Creative Mentoring ([EYRCM](https://www.winona.edu/grants/early-year.asp)) pilot program. The program matches students early in their collegiate career with research mentors. Emma's project was to dive into some CHART data collected at ASU and look for any issues that need to be investigated. She found and cataloged several anomolies, uncovering bugs in our data collection system. She went on to study one of the issues, and found that our SDR is using an automatic gain control (AGC), which is typically not desirable for astronomy applications.
+Emma participated in WSU's Early Year Research & Creative Mentoring ([EYRCM](https://www.winona.edu/grants/early-year.asp)) pilot program. The program matches students early in their collegiate career with research mentors. Emma's project was to dive into some CHART data collected at ASU and look for any issues that need to be investigated. She found and cataloged several anomolies, uncovering bugs in our data collection system. She went on to study one of the issues, and found that our SDR is using an automatic gain control (AGC), which is typically not desirable for astronomy applications.
 
 ## CHART Filter
 *Nahom Nemera, 2021-2022*
