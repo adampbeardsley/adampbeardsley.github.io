@@ -5,6 +5,16 @@ rank: 2.1
 # Student Projects
 Here's a running list of student research and design projects I've mentored. If you're a student looking to get involved, this is a good place to see what others have been up to lately.
 
+## Driver Alert Mechanism
+*Jude Riley, 2022-2023*
+
+For Jude's senior design project, he is creating a device to more actively
+alert drivers when a car brakes quickly. He hopes to make the brake light
+more effective by displaying differently when there is a hard brake vs a light
+brake. The challenge is doing this in an affordable way that can be installed
+after market without comprimising the existing safety of the car, and of course
+making sure all alterations are legal for vehicles on the road.
+
 ## Design and Performance of CHART
 *Ahlea Wright, 2022*
 ![CHART Test](media/chart_test.jpeg)
