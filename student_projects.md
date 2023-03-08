@@ -5,6 +5,33 @@ rank: 2.1
 # Student Projects
 Here's a running list of student research and design projects I've mentored. If you're a student looking to get involved, this is a good place to see what others have been up to lately.
 
+## Design and Performance of CHART
+*Ahlea Wright, 2022*
+![CHART Test](media/chart_test.jpeg)
+
+Ahlea took on all things CHART hardware over the summer.
+She characterized our filter and amplifier options, built a few horns to test
+their performance and refine the building strategy, and she collected some of the
+best data CHART has seen so far.
+Ahlea guided several high school teachers in building their own CHART horns,
+and she presented her work at the [2023 AAS meeting in Seattle](https://ui.adsabs.harvard.edu/abs/2023AAS...24117003A/abstract).
+
+## CHART GUI and Community Server
+*Lindsey Arndt, 2022*
+![CHART GUI](https://astrochart.github.io/website/images_for_website/GUI%20screenshots/allGUI.png)
+
+Lindsey is interested in human-computer interaction and she spearheaded the creation of
+a graphical user interface (GUI) to streamline CHART data collection.
+The project came about because Lindsey recognized that interfacing with the Linux command
+line would be a prohibitive step for teachers and students just starting out.
+So she created the interface shown above which collects relevant metadata and takes
+various observing parameters as inputs, then launches the CHART data collection script.
+Lindsey took it even further by setting up a community server where participants
+can upload their data and analyze it on a shared cloud computer.
+All these awesome tools were tested during a summer workshop where we invited
+high school teachers to come to WSU and build their own CHART.
+Lindsey presented her work at the [2023 AAS meeting in Seattle](https://ui.adsabs.harvard.edu/abs/2023AAS...24117003A/abstract).
+
 ## CHART Data Analysis
 *Emma Dachel, 2022*
 
