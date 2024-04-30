@@ -5,6 +5,28 @@ rank: 2.1
 # Student Projects
 Here's a running list of student research and design projects I've mentored. If you're a student looking to get involved, this is a good place to see what others have been up to lately.
 
+## Versatile Multi-Sport Scoreboard
+*Jake Van Hulzen, 2023-2024*
+
+For Jake's senior design project, he set out to create a scoreboard that could
+accommodate a variety of different sports in different settings, all while
+keeping the costs low with public/community recreation programs in mind.
+He pulled together programmable LEDs, multiple microcontrollers, button pads,
+and radio communication to make the whole design work.
+
+## Early-Year CHART Students
+*Landyn Schroeder, Sammy Schneider, Carly Fitzgerald, 2024*
+
+These three students participated in WSU's [Early Year Research and Creative
+Mentoring](https://www.winona.edu/academics/research/funding-for-research/) program.
+They worked together but each took on their own aspect of the project.
+Sammy focused on developing and publishing an observing protocol to ensure
+consistent and quality data.
+Landyn hunted some anomolous radio interference we observed in the protected 21cm
+radio astronomy band.
+Carly used CHART data to measure the speed that gas in the Milky Way galaxy rotates.
+Once developed further, this work can be used to show evidence for dark matter.
+
 ## Driver Alert Mechanism
 *Jude Riley, 2022-2023*
 
