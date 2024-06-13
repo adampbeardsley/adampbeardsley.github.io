@@ -9,11 +9,21 @@ I've organized this page by different radio telescopes I work with.
 If you're a student looking to get involved with research, let me know what interests you!
 
 Quick links:  
+[Winona Radio Observatory](#winona-radio-observatory)  
 [HERA](#hydrogen-epoch-of-reionization-array)  
 [MWA](#murchison-widefield-array)  
 [EPIC](#epic)  
 [CHART](#chart)  
 [LWA Swarm](#lwa-swarm)
+
+## Winona Radio Observatory
+One of my long-term goals when coming to Winona was to develop a radio instrumentation testing ground, which I call the Winona Radio Observatory (WRO).
+This won't be an ordinary observatory.
+Rather than housing mature instruments where scientists request observing time, the WRO will provide the site and infrastructure for experimental instruments.
+The future of precision low-frequency cosmology is going to depend on novel techniques and scientists with hands-on experience that truly understanding the nature of their equipment.
+The WRO testing ground will meet these needs.
+
+I was recently awarded and NSF CAREER grant to pursue this idea and lay the groundwork for the WRO. There will be lots of interesting projects for WSU students to do some research, collaborate with scientists around the country, and present their work at conferences.
 
 ## Hydrogen Epoch of Reionization Array
 ![hera](media/HERA.jpeg)
@@ -108,4 +118,4 @@ If you are a high school student or teacher and are interested in this project, 
 
 The Long Wavelength Array actually consists of three different telescopes - so far.
 The plan is to install "stations" all over the continent to provide individual universities with their own instrument to explore and observe with, and for the stations to all work together.
-I'm planning to build an LWA near Winona State.
+I'm planning to build an LWA near Winona State at the [WRO](#winona-radio-observatory).
