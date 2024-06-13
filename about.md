@@ -11,9 +11,10 @@ After graduating from Madison, I headed to Seattle to pursue a PhD in physics fr
 In summer of 2015 I joined the Low-frequency Cosmology (LoCo) group at Arizona State University’s School of Earth and Space Exploration (SESE). It was an interesting and exciting department to be a part of — it’s a mix of astronomers, geophysicists, and engineers.
 
 In Fall 2020, amid the Covid pandemic, I started as an assistant professor at Winona State.
-It's certainly been a hectic start to the new job, but the department has been very welcoming
-supportive as I get my feet under myself. I'm hoping to be back on campus soon to
-see the students more often.
+While it was an interesting and hectic start, the department was very welcoming and supportive
+as I got my feet under myself. Now that things are back to normal, I spend my time
+[teaching a variety of courses](teaching.md), [mentoring students](student_projects.md), and
+carrying out [research](research.md).
 
 Besides astronomy and physics, my interests include breakfast, playing with my dog, woodworking projects, and camping. I also enjoy a casual game of chess – hit me up on lichess if you want to play, username [uther_pendragon](https://lichess.org/@/uther_pendragon).
 
