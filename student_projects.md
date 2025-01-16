@@ -5,6 +5,15 @@ rank: 2.1
 # Student Projects
 Here's a running list of student research and design projects I've mentored. If you're a student looking to get involved, this is a good place to see what others have been up to lately.
 
+## Galaxy Rotation Curve with CHART
+*Carly Fitzgerald, 2024*
+Carly has been working on using CHART to observe hydrogen gas in the Milky Way galaxy and map out how fast the gas is going depending on how far it is from the galactic center. She is using the "tangent point method" for the inner galaxy, and exploring ways to extend to the outer galaxy, which gets a little more complicated. Along the way she has also been exploring ways to improve the calibration of the CHART data.
+![CHART Galaxy Rotation Curve](media/rot_curve.png)
+
+## Transient Searches with EPIC
+*Michaud, 2024*
+Sam looked at Fast Radio Burst (FRB) detections from the CHIME telescope and looked into the best ways for EPIC (which is deployed on the LWA in New Mexico) to follow up or simultaneously observe FRBs. He also did data validation work as the system was being upgraded and did early looks at automatic follow-ups that were triggered from CHIME detections.
+
 ## Versatile Multi-Sport Scoreboard
 *Jake Van Hulzen, 2023-2024*
 
